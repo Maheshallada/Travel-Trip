@@ -1,0 +1,57 @@
+.trip-cont {
+  width: 1042px;
+  height: 140px;
+  top: 189px;
+  left: 162px;
+  gap: 0px;
+  border-radius: 16px;
+  border: 1px solid #3047665e;
+  margin: 10px 0px 10px 50px;
+  background-color: white;
+}
+.trip-con-det {
+  width: 882px;
+  height: 60px;
+  margin: 30px 30px 30px 60px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.trip-con-head {
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 32px;
+  letter-spacing: 0.10000000149011612px;
+  text-align: left;
+  color: #334155;
+  padding: 0px 0px 5px 10px;
+}
+.trip-con-date {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.20000000298023224px;
+  color: #0f0f0fcc;
+  padding: 5px 0px 5px 0px;
+}
+.normal-para {
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 20px;
+  letter-spacing: 0.20000000298023224px;
+  text-align: left;
+  color: #334155cc;
+}
+.my-trip-button {
+  width: 64px;
+  height: 28px;
+  border: 1px solid #2563eb;
+  border-radius: 6px;
+  color: #2563eb;
+  margin-top: 20px;
+  background-color: #FFFFFF;
+
+}

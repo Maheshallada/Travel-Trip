@@ -1,0 +1,66 @@
+.my-trip-con {
+  background-color: white;
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+}
+.my-trip-heading {
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 28px;
+  letter-spacing: 0.20000000298023224px;
+  color: #334155;
+  padding: 20px 0px 20px 150px;
+}
+.not-found-con {
+  width: 433px;
+  height: 176px;
+  top: 312px;
+  left: 467px;
+  gap: 0px;
+  opacity: 0px;
+  margin: 250px 0px 0px 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.not-found-head {
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 32px;
+  letter-spacing: 0.10000000149011612px;
+  text-align: center;
+  color: #334155;
+  padding-top: 10px;
+}
+.not-found-para {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.10000000149011612px;
+  text-align: center;
+  color: #334155cc;
+}
+.not-found-button-ele {
+  width: 133pxpx;
+  height: 32pxpx;
+  top: 220px;
+  left: 159px;
+  padding: 6px 12px 6px 12px;
+  gap: 10px;
+  border-radius: 6px;
+  opacity: 0px;
+  background-color: #2563eb;
+  color: white;
+  border: 0px;
+  margin-left: 640px;
+  margin-top: 30px;
+}
+.image-box {
+  width: 40px;
+  height: 68.57px;
+  margin-left: 180px;
+}

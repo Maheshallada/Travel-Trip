@@ -1,0 +1,41 @@
+.nav-header {
+  height: 93px;
+  background-color: #304766;
+  padding: 10px;
+}
+.blog-container {
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  margin-left: 180px;
+  margin-right: 180px;
+}
+.blog-title {
+  width: 116px;
+  font-family: Caveat;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 25px;
+}
+.nav-menu {
+  display: flex;
+  color: white;
+  margin-top: 30px;
+  list-style-type: none;
+}
+.logout-desktop-btn {
+  width: 103px;
+  height: 48px;
+  border-radius: 8px;
+  padding: 12px 24px 12px 24px;
+  border: 0px;
+  margin-top: 12px;
+  color: #304766;
+  font-size: 16px;
+  font-weight: 600;
+}
+.nav-link {
+  color: white;
+  padding-right: 30px;
+  text-decoration: none;
+}

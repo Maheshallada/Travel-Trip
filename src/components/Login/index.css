@@ -1,0 +1,100 @@
+.bg-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 485px;
+  height: 472px;
+  top: 148px;
+  left: 441px;
+  border-radius: 10px;
+  padding: 25px;
+  box-shadow: 0px 20px 25px 0px rgba(15, 23, 42, 0.1);
+  background-color: white;
+}
+.heading {
+  font-family: Caveat;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 44px;
+  letter-spacing: 0.10000000149011612px;
+  color: #334155;
+  padding-left: 140px;
+}
+.username-label {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 0.20000000298023224px;
+  text-align: left;
+  color: #334155;
+}
+.input-ele {
+  border-radius: 8px;
+  width: 352px;
+  height: 38px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #64748b;
+  padding: 8px 8px 8px 12px;
+}
+.login-button {
+  width: 352px;
+  height: 44px;
+  padding: 12px, 24px, 12px, 24px;
+  border-radius: 8px;
+  background-color: #304766;
+  color: white;
+  border: 0px;
+}
+.password-con {
+  border-radius: 8px;
+  width: 352px;
+  height: 38px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #64748b;
+  display: flex;
+  flex-direction: row;
+  padding-top: 4px;
+  padding-left: 4px;
+}
+.icon {
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  padding-right: 2px;
+}
+.login-form-con {
+  margin: 50px 0px 0px 40px;
+  display: flex;
+  flex-direction: column;
+}
+.password-input-con {
+  width: 315px;
+  height: 28px;
+  border: 0px;
+  padding-left: 10px;
+  outline: none;
+}
+.icon-button {
+  width: 20px;
+  height: 20px;
+  background-color: white;
+  margin: 5px 0px 0px 0px;
+  border: 0px;
+}
+.error-msg {
+  padding-top: 3px;
+  font-family: DM Sans;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 18.23px;
+  letter-spacing: 0.20000000298023224px;
+  text-align: left;
+  color: #ef4444;
+}

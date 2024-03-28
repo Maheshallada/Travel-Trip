@@ -1,0 +1,171 @@
+.user-main-con {
+  width: 1035px;
+  height: 579px;
+  margin-top: 134px;
+  margin-left: 165px;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+}
+.trip-list-con {
+  width: 268px;
+  height: 579px;
+  border-radius: 16px 0px 0px 16px;
+  background-color: white;
+}
+.trip-details-list {
+  height: 352px;
+  margin-top: 35px;
+  margin-left: 10px;
+  list-style-type: none;
+}
+.trip-list-ele {
+  color: #334155;
+  padding-left: 10px;
+  font-size: 14px;
+  line-height: 20px;
+  margin-bottom: 25px;
+}
+.trip-ele-con {
+  display: flex;
+  flex-direction: row;
+  margin-top: 30px;
+}
+.trip-circle-con {
+  height: 25px;
+  width: 25px;
+  border-radius: 50%;
+  color: #1e293b;
+  border: 1px solid #cbd5e1;
+  display: inline-block;
+  line-height: 20px;
+  text-align: center;
+  font-size: 14px;
+}
+.user-con {
+  width: 1366px;
+  height: 768px;
+  background-color: #f1f5f9;
+}
+.user-form-con {
+  width: 1035px;
+  height: 579px;
+  top: 134px;
+  left: 165px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 16px;
+  background-color: #304766;
+}
+.user-details-con {
+  width: 276px;
+  height: 61px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+.user-heading {
+  font-family: 'Inter';
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 29px;
+  text-align: center;
+  color: #f1f5f9;
+}
+.user-para {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0px;
+  color: #f1f5f9;
+  text-align: center;
+}
+.user-search-con {
+  width: 448px;
+  height: 366px;
+  margin-top: 60px;
+  border-radius: 16px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  padding-left: 40px;
+  padding-top: 30px;
+}
+.user-label-ele {
+  color: black;
+  font-size: 14px;
+  font-family: Inter;
+}
+.user-form1 {
+  display: flex;
+  flex-direction: column;
+}
+p {
+  color: red;
+  font-size: 14px;
+  font-family: 'DM Sans';
+  margin: 1px;
+}
+.user-details-input {
+  margin: 5px 0px 0px 0px;
+  width: 352px;
+  height: 28px;
+  padding: 5px 13px 5px 13px;
+  border-radius: 4px;
+}
+.user-button {
+  background-color: #2563eb;
+  width: 56px;
+  height: 32px;
+  margin-left: 150px;
+  border-radius: 6px;
+  color: white;
+  padding: 6px 12px 6px 12px;
+  margin-top: 10px;
+  font-family: 'Inter';
+}
+.trip-plan-step-selected {
+  height: 25px;
+  width: 25px;
+  border-radius: 50%;
+  border: 1px solid #cbd5e1;
+  display: inline-block;
+  line-height: 20px;
+  text-align: center;
+  font-size: 14px;
+  color: #2563eb;
+  background-color: #2563eb;
+}
+.trip-plan-step-completed {
+  height: 25px;
+  width: 25px;
+  border-radius: 50%;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/travel-trip-steps-successfully-completed-img.png');
+  background-size: cover;
+  text-align: center;
+}
+.number {
+  font-size: 14px;
+  font-weight: 550;
+  line-height: 20px;
+  text-align: center;
+  color: #1e293b;
+  font-family: 'Inter';
+}
+.trip-list-ele-selected {
+  color: #2563eb;
+  padding-left: 10px;
+  font-size: 14px;
+  line-height: 20px;
+  margin-bottom: 25px;
+  font-weight: 600;
+}
+.number-selected {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  text-align: center;
+  color: white;
+}
